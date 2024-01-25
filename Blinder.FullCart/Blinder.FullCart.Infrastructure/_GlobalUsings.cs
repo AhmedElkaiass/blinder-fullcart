@@ -1,0 +1,5 @@
+﻿global using Blinder.FullCart.Infrastructure.DataAccess.Seed;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
